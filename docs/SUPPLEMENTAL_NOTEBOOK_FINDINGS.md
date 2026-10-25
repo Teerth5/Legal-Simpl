@@ -1,6 +1,6 @@
 # Supplemental findings from the exported notebook
 
-The original project has a 929-page PDF export of exploratory notebook code and historical output. It is not an executable source notebook. The raw export is withheld from this public release because it contains credential-like text. The following summary contains no credentials or private connection details.
+The original project has a 929-page PDF export of exploratory notebook code and historical output. It is not an executable source notebook. The raw export is omitted from this public release because it is a lengthy exploratory record rather than runnable source. An initial broad credential-pattern scan produced a false positive from ordinary wording; the corrected token-boundary scan found no matching provider-token patterns. The following focused summary avoids private connection details and redundant logs.
 
 ## Risk-classifier experiment (PDF pages 105–125)
 
